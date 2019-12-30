@@ -1,0 +1,201 @@
+body{
+    background-image: url("https://i.ibb.co/Zf1XfDf/coolbackgroundbaw.png");
+}
+
+.name{
+        background-color: salmon;
+        padding: 25px 20px;
+        margin-top: 0;
+        margin-bottom: 0;
+        color: white;
+        float: left;
+        font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}       
+
+.pagetitle{
+    margin-left: 5%;
+    margin-right: 5%;
+        color: salmon;
+        padding: 20px 20px;
+        border-bottom: 2px solid black;
+        border-width: 100%;
+        font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.headerholder{
+    background-color:white;
+    top:0;
+    left:0;
+    position: fixed;
+    width:100%;
+    border-bottom: 2px solid black;
+}
+
+.header{
+    top: 0;
+    background-color: white;
+    width:960px;
+    margin: auto;
+
+}
+
+.about{
+    float: right;
+    display: block;
+    padding: 20px 20px;
+    border-right: 1px solid black;
+    border-left: 1px solid black;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.portfolio{
+     float: right;
+    display: block;
+    padding: 20px 20px;
+    border-right: 1px solid black;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.contact{
+    float: right;
+    display: block;
+    padding: 20px 20px;
+    border-right: 1px solid black;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.mainbody{
+    width:960px;
+    background-color:white;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right:auto;
+    margin-left:auto;
+    border-radius:30px;
+    box-shadow: 10px 10px salmon, 15px 15px 15px black;
+}
+.image{
+    border: 15px solid white;
+    margin-left: 2.5%;
+}
+
+.bodytext{
+    text-align: justify;
+    margin-left: 5%;
+    margin-right: 5%;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.contactTitles{
+    margin-left: 5%;
+    margin-right: 5%;
+    font-size: 15px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.contactTitles2{
+    margin-left:110px;
+    padding-top: 20px;
+    font-size: 15px;
+    font-size: 25px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+
+.socialpic{
+    background-color: salmon;
+    height:100px;
+    width:100px;
+    margin-left:5%;
+}
+
+#mail{
+    background-image: url(https://i.ibb.co/dfJPB9X/mailerpink100.jpg);
+}
+
+#github{
+    background-image: url(https://i.ibb.co/X5Mv8K8/githubpink100.jpg);
+}
+
+#instagram{
+    background-image: url(https://i.ibb.co/0qVNJ40/instapink100.jpg);
+}
+
+#twitter{
+    background-image: url(https://i.ibb.co/Nm1GZXr/twitterpink100.jpg);
+}
+
+.formBoxName{
+margin-right: 5%;
+margin-left: 5%;
+border: 1px solid grey;
+}
+
+.formBoxEmail{
+    margin-right: 5%;
+    margin-left: 5%;
+    border: 1px solid grey;
+   }
+
+.formBoxMessage{
+    height: 200px;
+    margin-right: 5%;
+    margin-left: 5%;
+    border: 1px solid grey;
+    }
+
+    .form{
+        margin-left:5%;
+        margin-right:5%;
+    }
+
+    .TextInForm{
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    }
+
+    input{
+        width: 100%;
+        padding-top:5px;
+        padding-bottom:5px;
+    }
+
+    .inputMessage{
+        width:100%;
+        height: 150px;
+        padding-top:5px;
+        padding-bottom:5px;
+    }
+
+    .submitButton{
+        background-color:salmon;
+        margin-right: 80%;
+        margin-top: 2%;
+        margin-bottom: 2.5%;
+        padding-top: 1px;
+        padding-bottom: 1px;
+        padding-right: 25px;
+        padding-left: 25px;
+        border:none;
+    }
+    
+    .submitText{
+        color: white;
+        text-align: center;
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    }
+
+.footer{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    border-style:solid;
+    border-width: 5px 0px 0px 0px;
+    border-color: salmon;
+    text-align: center;
+    background-color: grey;
+    position: fixed;
+    bottom:0;
+    left:0;
+    width: 100%;
+    color: white;
+}
+
+
